@@ -1,4 +1,4 @@
-Progetto BD - SocialMarket
+**SocialMarket**
 
 In questo progetto sono presenti, oltre alle documentazioni e codici richiesti, 
 una copia della specifica e delle cartelle contenenti le immagini .PNG degli
